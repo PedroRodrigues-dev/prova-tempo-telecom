@@ -1,0 +1,30 @@
+{
+  "name": "sistema-produtos-back",
+  "version": "1.0.0",
+  "description": "Prova para tempo telecom",
+  "main": "server.js",
+  "dependencies": {
+    "express": "^4.17.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "nodemon server.js",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/PedroRodrigues-dev/prova-tempo-telecom.git"
+  },
+  "keywords": [
+    "tempo_telecom",
+    "prova",
+    "teste",
+    "node"
+  ],
+  "author": "Pedro Rodrigues",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/PedroRodrigues-dev/prova-tempo-telecom/issues"
+  },
+  "homepage": "https://github.com/PedroRodrigues-dev/prova-tempo-telecom#readme"
+}
